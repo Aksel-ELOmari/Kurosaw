@@ -1,0 +1,23 @@
+html,*
+{
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    border-style: border-box;
+}
+.catalog-countainer {
+  min-height: max-content;
+  max-width: 100vw;
+}
+.catalog-column {
+  height: fit-content;
+}
+.accordion {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+/* ######### */
+select{font-size: 1rem !important;min-width: -webkit-fill-available;min-width:100% !important;}

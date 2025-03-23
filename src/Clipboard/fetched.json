@@ -1,0 +1,58 @@
+
+{
+    "_id": "64d36b15bf31f201ccbca031",
+    "air_date": "2024-11-09",
+    "episodes": [
+      {
+        "air_date": "2024-11-09",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "id": 5608924,
+        "name": "Heavy Is the Crown",
+        "overview": "Vi and Caitlyn wrestle with how best to respond in the wake of a terrible tragedy that claims lives — and escalates tensions between the twin cities.",
+        "production_code": "",
+        "runtime": 41,
+        "season_number": 2,
+        "show_id": 94605,
+        "still_path": "/2ei8DPkJAuFKKbrjV0dMjxIpZEi.jpg",
+        "vote_average": 8.4,
+        "vote_count": 65,
+        "crew": [
+          {
+            "job": "Writer",
+            "department": "Writing",
+            "credit_id": "61d4ea1052dc7f0019d50bd1",
+            "adult": false,
+            "gender": 1,
+            "id": 1656216,
+            "known_for_department": "Writing",
+            "name": "Amanda Overton",
+            "original_name": "Amanda Overton",
+            "popularity": 0.22,
+            "profile_path": null
+          }
+        ],
+        "guest_stars": [
+          {
+            "character": "Jayce (voice)",
+            "credit_id": "614fdcaa158c850061b9d2ae",
+            "order": 2,
+            "adult": false,
+            "gender": 2,
+            "id": 116474,
+            "known_for_department": "Acting",
+            "name": "Kevin Alejandro",
+            "original_name": "Kevin Alejandro",
+            "popularity": 17.072,
+            "profile_path": "/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg"
+          }
+        ]
+      }
+    ],
+    "name": "Season 2",
+    "overview": "Alliances are forged, allegiances are smashed and fresh dangers emerge as the battle between Piltover and Zaun inspires both glory and heartbreak.",
+    "id": 351997,
+    "poster_path": "/oTGEwkp1mPgWNMgVSM53TWfzgSc.jpg",
+    "season_number": 2,
+    "vote_average": 8.1
+  }

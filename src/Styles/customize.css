@@ -1,0 +1,58 @@
+
+/* Min Witch */
+@media screen and (min-width: 430px){
+  .anime-overview { max-width: 50% !important; font-size: 2vh !important;}
+}
+@media screen and (max-width: 425px) {
+  .hero-section {
+    height: 50vh !important;
+    height: 50dvh !important;
+  }
+  h1 { font-size: 2.5vh !important; }
+  .h5,p{font-size: .8rem !important;}
+  .dataDisplayer,.dataDisplayer-btn { display: none !important; }
+  .card, .Card {
+    height: 8rem !important;
+    width: 5rem !important;
+  }
+  .carousel-cards-holder .card {
+    min-width: 5rem !important;
+  }
+  .fa-solid, .fa-brand { font-size: 1vh !important; }
+  .femail-con{max-height: .6rem !important;}
+  .AnimeTitle { display: none !important; }
+  .card h5 { bottom: .5rem !important; font-size: .7rem !important; }
+  .card .item-status { padding: 0.3vh !important; }
+  .item-status.like-btn i { right: 0.5vw !important; }
+  .item-status.save-btn i { left: 0.5vw !important; }
+  .rate-score { font-size: 1.5vh !important; white-space: nowrap !important; }
+  .personCover {
+    height: 6rem !important;
+    width: 6rem !important;
+  }
+  .personCard span {white-space: nowrap !important; }
+  /* Preview Page */
+  .hero-body_inner { flex-direction: column !important; }
+  .animeCover img {
+    max-height: 90vh !important;
+    max-width: 40vw !important;
+  }
+  .special-btn {
+    padding: 0.7vh 1.25vw;
+    font-size: 1.5vh !important;
+  }
+  .anime-overview{ width: 100% !important; }
+  .hero-buttons_inner, .tooltaps-btns-holder { justify-content: space-evenly !important; }
+  /* Reviews */
+  .review-main-card input { width: max-content !important; }
+  .footer-body { flex-direction: column !important; }
+  .btn,.navbar-toggler { font-size: .5rem !important;}
+
+}
+@media screen and (max-width:375px) {
+  .tooltaps-cards-section {translate: 0 -15% !important;}
+  .btn {padding: .4rem .7rem !important;}
+}
+@media screen and (max-width:320px) {
+  .btn {padding: .2rem .3rem !important;}
+}
